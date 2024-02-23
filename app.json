@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AA Ruzas",
-    "slug": "aaruzas",
+    "name": "Ford Link",
+    "slug": "fordlink",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,8 +22,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.aaruzas.aaruzas",
-      "versionCode":2
+      "package": "com.fordlink.fordlink",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,7 +33,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "2110a73f-e441-4ad7-bf1a-f90b1227a0d0"
+        "projectId": "794ae392-fdb5-434c-8cf2-00423d077303"
       }
     }
   }
